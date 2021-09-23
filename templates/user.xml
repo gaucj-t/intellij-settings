@@ -5,7 +5,7 @@
       <option name="VUE_TOP_LEVEL" value="true" />
     </context>
   </template>
-  <template name="&lt;vuex-module-static&gt;" value="import { Module } from 'vuex-module-decorators'&#10;import { BaseVuexModule } from '~/store/BaseVuexModule'&#10;&#10;@Module({&#10;    name: 'example',&#10;    namespaced: true,&#10;    stateFactory:true&#10;})&#10;&#10;export default class Example extends BaseVuexModule{&#10;    &#10;}" toReformat="true" toShortenFQNames="true">
+  <template name="&lt;vuex-module-static&gt;" value="import { Module } from 'vuex-module-decorators'&#10;import { BaseVuexModule } from '~/store/BaseVuexModule'&#10;&#10;@Module({&#10;    name: 'example',&#10;    namespaced: true,&#10;    stateFactory:true&#10;})&#10;&#10;export default class Example extends BaseVuexModule{&#10;    &#10;}" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JS_STATEMENT" value="true" />
       <option name="JS_TOP_LEVEL_STATEMENT" value="true" />
