@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="privateKey" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile-proxy" type="AUTO_DETECTED" />
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="*.php.stub" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping ext="stub" type="PHP" />
