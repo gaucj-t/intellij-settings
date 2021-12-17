@@ -14,7 +14,7 @@
       <option name="VUE_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="&lt;vue-mixin-template&gt;" value="import { Component, mixins } from 'nuxt-property-decorator'&#10;import BaseMixin from '~/mixins/BaseMixin'&#10;&#10;@Component&#10;export default class TransactionsMixin extends mixins(BaseMixin) {}" toReformat="true" toShortenFQNames="true">
+  <template name="&lt;vue-mixin-template&gt;" value="import { Component, mixins } from 'nuxt-property-decorator'&#10;import BaseMixin from '~/mixins/BaseMixin'&#10;&#10;@Component&#10;export default class TransactionsMixin extends mixins(BaseMixin) {}" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JS_STATEMENT" value="true" />
       <option name="JS_TOP_LEVEL_STATEMENT" value="true" />
