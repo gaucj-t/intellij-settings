@@ -23,4 +23,13 @@
       <option name="VUE_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="&lt;vlazycomp&gt;" value="()=&gt; import()" description="Vue Component lazy import" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_CLASS" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TS_CLASS" value="true" />
+      <option name="TS_STATEMENT" value="true" />
+      <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
+    </context>
+  </template>
 </templateSet>
