@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/components/Configuration/Forms/Fields/ProfileName.vue'" />
-    <option name="defaultScopeName" value="File '…/components/Configuration/Forms/Fields/ProfileName.vue'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="File '…/components/Configuration/Forms/Fields/ProfileName.vue'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.inc</mask>
     <mask>*.php4</mask>
     <mask>*.php5</mask>
