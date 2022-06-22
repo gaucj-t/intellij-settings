@@ -1,3 +1,3 @@
-# intellij-settings
+# Jetbrains-Settings
 
-These are my preffered settings for my Jetbrains Environment. (PhpStorm & Webstorm
+These are my preffered settings for my Jetbrains Environment. (PhpStorm & Webstorm)
