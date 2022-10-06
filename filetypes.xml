@@ -3,6 +3,9 @@
     <extensionMap>
       <mapping pattern="Dockerfile-proxy" type="AUTO_DETECTED" />
       <mapping pattern="privateKey" type="AUTO_DETECTED" />
+      <mapping pattern="*.php.stub" type="PHP" />
+      <mapping pattern=".php_cs" type="PHP" />
+      <mapping ext="stub" type="PHP" />
       <mapping pattern="jsonToHtml" type="PLAIN_TEXT" />
       <mapping pattern="publicKey" type="PLAIN_TEXT" />
       <mapping pattern="working-with-the-current-tenant" type="PLAIN_TEXT" />
@@ -53,9 +56,6 @@
       <removed_mapping pattern="first-party-extensions.md" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="making-solutions-runnable" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="sharing-error-occurrences" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="*.php.stub" type="PHP" />
-      <mapping ext="stub" type="PHP" />
-      <mapping pattern=".php_cs" type="PHP" />
     </extensionMap>
   </component>
 </application>
