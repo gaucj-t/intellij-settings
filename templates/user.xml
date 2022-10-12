@@ -32,7 +32,7 @@
       <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
     </context>
   </template>
-  <template name="&lt;vue-3-setup-template&gt;" value="&lt;template&gt;&#10;&#10;&lt;/template&gt;&#10;&#10;&lt;script lang=&quot;ts&quot; setup&gt;&#10;&lt;/script&gt;" toReformat="true" toShortenFQNames="true">
+  <template name="&lt;vue-3-setup-template&gt;" value="&lt;template&gt;&#10;&#10;&lt;/template&gt;&#10;&#10;&lt;script lang=&quot;ts&quot; setup&gt;&#10;&lt;/script&gt;" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="HTML_TEXT" value="true" />
       <option name="VUE_TOP_LEVEL" value="true" />
