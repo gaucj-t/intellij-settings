@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="&lt;vue-ts-template&gt;" value="&lt;template&gt;&#10;  &lt;div&gt;&lt;/div&gt;&#10;&lt;/template&gt;&#10;&lt;script lang=&quot;ts&quot;&gt;&#10;import { Component, mixins } from &quot;nuxt-property-decorator&quot;;&#10;import BaseMixin from &quot;~/mixins/BaseMixin&quot;;&#10;&#10;@Component&#10;export default class UserNav extends mixins(BaseMixin) {}&#10;&lt;/script&gt;" description="Vue Component TS Template" toReformat="true" toShortenFQNames="true">
+  <template name="&lt;vue-2-ts-template&gt;" value="&lt;template&gt;&#10;  &lt;div&gt;&lt;/div&gt;&#10;&lt;/template&gt;&#10;&lt;script lang=&quot;ts&quot;&gt;&#10;import { Component, mixins, Vue } from &quot;nuxt-property-decorator&quot;;&#10;&#10;@Component&#10;export default class Example extends Vue {}&#10;&lt;/script&gt;" description="Vue Component TS Template" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="HTML_TEXT" value="true" />
       <option name="VUE_TOP_LEVEL" value="true" />
@@ -30,6 +30,12 @@
       <option name="TS_CLASS" value="true" />
       <option name="TS_STATEMENT" value="true" />
       <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
+    </context>
+  </template>
+  <template name="&lt;vue-3-setup-template&gt;" value="&lt;template&gt;&#10;&#10;&lt;/template&gt;&#10;&#10;&lt;script lang=&quot;ts&quot; setup&gt;&#10;&lt;/script&gt;" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="VUE_TOP_LEVEL" value="true" />
     </context>
   </template>
 </templateSet>
