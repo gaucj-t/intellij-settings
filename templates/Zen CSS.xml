@@ -3,4 +3,7 @@
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="h" value="height: $END$;" description="height:...;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
 </templateSet>
